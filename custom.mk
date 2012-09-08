@@ -4,5 +4,5 @@ DEVICE_PACKAGE_OVERLAYS += device/samsung/maguro/custom-overlay
 
 PRODUCT_LOCALES := es_ES en_US
 
-PRODUCT_NAME := cm_maguro
+PRODUCT_NAME := cm_maguro-custom
 

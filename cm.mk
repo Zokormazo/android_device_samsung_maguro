@@ -17,6 +17,8 @@ $(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
 # Inherit device configuration
 $(call inherit-product, device/samsung/maguro/full_maguro.mk)
 
+PRODUCT_LOCALES := es_ES en_US
+
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := maguro
 PRODUCT_NAME := cm_maguro

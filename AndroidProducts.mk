@@ -15,5 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_maguro.mk \
-    $(LOCAL_DIR)/custom.mk
+    $(LOCAL_DIR)/full_maguro.mk

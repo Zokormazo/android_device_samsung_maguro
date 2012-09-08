@@ -21,5 +21,5 @@
 # In particular, you can add lunch options with the add_lunch_combo
 # function: add_lunch_combo generic-eng
 
-add_lunch_combo custom_maguro-userdebug
+add_lunch_combo custom_maguro-custom-userdebug
 
